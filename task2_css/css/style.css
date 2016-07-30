@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  width: 960px;
+  height: 110px;
+  margin: 0 auto;
+  padding: 10px 0 0 10px;
+  background-color: green;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
+div.logo{
+  width: 100px;
+  float: left;
+}
